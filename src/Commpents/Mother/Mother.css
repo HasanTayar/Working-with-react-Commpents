@@ -1,0 +1,38 @@
+.Mother {
+  background-color: lightskyblue;
+  align-items: center;
+  text-align: center;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+
+.balloons {
+  display: flex;
+  justify-content: center;
+}
+
+.balloon-container {
+  margin: 10px;
+}
+
+.Child {
+  padding: 10px;
+  border-radius: 50%;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px black;
+  width: 80px;
+  height: 80px;
+}
+
+.Balloon {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
