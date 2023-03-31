@@ -35,7 +35,7 @@ The app is built using the following components:
 
 ### Counter App
 
-![Default Counter](./screenshots/cnt0.png)
+![Default Counter](./screenshots/Cnt0.png)
 ![Positive Counter](./screenshots/cnt10.png)
 ![Negative Counter](./screenshots/cnt-10.png)
 ### A Tale of Five Balloons Interface
